@@ -1,1 +1,1 @@
-# PRODIGY_CS_O3
+This tool evaluates the strength of a password based on its length, use of uppercase and lowercase letters, numbers, and special characters. It provides a rating (Weak, Moderate, or Strong) along with suggestions to improve security. Ideal for enhancing password safety and best practices. 
